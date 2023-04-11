@@ -1,8 +1,10 @@
 # Optimizing_Spam_Filtering
 Optimizing Spam Filtering with Machine Learning
 
+
 # Optimizing Spam Filtering with  Machine Learning
 - Find ham message and spam message
+
 
 ## Tech Stack
 - Python
@@ -21,7 +23,7 @@ Optimizing Spam Filtering with Machine Learning
 - Click the "Check the Message" button 
 
 ## Contributors
-- Murugavel S (@murugaveldev)
-- Naveen  (@)
-- Loganathan  (@)
-- Keerthana R (@)
+- Murugavel S 
+- Naveen .N 
+- Loganathan .J
+- Poongothai.L 
