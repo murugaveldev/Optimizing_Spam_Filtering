@@ -18,6 +18,13 @@ Video Demonstration - https://youtu.be/03qaO_oHFyQ
 # Optimizing Spam Filtering with  Machine Learning
 - Find ham message or spam message
 
+## Message List
+### Ham Message
+- Install a reputable anti-virus and anti-malware software on your device to protect against scams and frauds
+
+### Spam Messages
+- You have won a prize! Click the link to claim now
+- WINNER!! As a valued network customer you have been selected to receivea �900 prize reward! To claim call 09061701461. Claim code KL341. Valid 12 hours only
 
 ## Tech Stack
 - Python
