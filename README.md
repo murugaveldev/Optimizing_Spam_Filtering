@@ -1,8 +1,11 @@
 # Optimizing_Spam_Filtering
 Optimizing Spam Filtering with Machine Learning
 
+
 > Home page 
-https://github.com/murugaveldev/Optimizing_Spam_Filtering/blob/main/SMSSpamClassifier-main/SMSSpamClassifier-main/Outputs/Output.png
+
+
+![Output](https://user-images.githubusercontent.com/128017464/231269795-c9b8e644-30f3-4e94-a139-510900348f98.png)
 
 
 
@@ -17,7 +20,7 @@ https://github.com/murugaveldev/Optimizing_Spam_Filtering/blob/main/SMSSpamClass
 - HTML/CSS
 
 ## Installation
-- Clone the repository: git clone https://github.com/iyappan012/University-Admission-Predication.git
+- Clone the repository: git clone https://github.com/murugaveldev/Optimizing_Spam_Filtering.git
 - Install the required packages: pip install -r requirements.txt
 - Run the application: python app.py
 
