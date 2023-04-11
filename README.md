@@ -18,7 +18,7 @@ Optimizing Spam Filtering with Machine Learning
 ## Usage
 - Open the web interface in your browser at http://localhost:5000/
 - Input your Message
-- Click the "Check the Message" button to get your admission prediction result
+- Click the "Check the Message" button 
 
 ## Contributors
 - Murugavel S (@murugaveldev)
