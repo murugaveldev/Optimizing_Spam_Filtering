@@ -2,8 +2,10 @@
 Optimizing Spam Filtering with Machine Learning
 
 
+
+
 # Optimizing Spam Filtering with  Machine Learning
-- Find ham message and spam message
+- Find ham message or spam message
 
 
 ## Tech Stack
