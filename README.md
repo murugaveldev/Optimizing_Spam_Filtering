@@ -40,7 +40,7 @@ Video Demonstration - https://youtu.be/03qaO_oHFyQ
 ## Usage
 - Open the web interface in your browser at http://localhost:5000/
 - Input your Message
-- Click the "Check the Message" button 
+- Click the "Check the Message" button and  classify the ham or spam message
 
 ## Contributors
 - Murugavel S 
