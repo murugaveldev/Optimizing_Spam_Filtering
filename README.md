@@ -43,7 +43,7 @@ Video Demonstration - https://youtu.be/03qaO_oHFyQ
 - Click the "Check the Message" button and  classify the ham or spam message
 
 ## Contributors
-- Murugavel S 
+- Murugavel .S 
 - Naveen .N 
 - Loganathan .J
 - Poongothai.L 
